@@ -1,8 +1,12 @@
 1️⃣ body – Toàn bộ trang web
 body {
+
   margin: 0;
+  
   font-family: "Segoe UI", Tahoma, sans-serif;
+  
   background: #ffffff;
+  
   color: #333;
 }
 
